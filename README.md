@@ -14,9 +14,9 @@ types and examples of how to custom components of the chart.
 
 A common library for charting packages.
 
-## charts_flutter
+## charts_flutter_new
 
-[![charts_flutter pub package](https://img.shields.io/pub/v/charts_flutter.svg)](https://pub.dartlang.org/packages/charts_flutter)
+[![charts_flutter_new pub package](https://img.shields.io/pub/v/charts_flutter.svg)](https://pub.dartlang.org/packages/charts_flutter_new)
 
 A charting package for [Flutter](https://flutter.io), supporting both Android
 and iOS.
@@ -26,4 +26,4 @@ All charts packages are licensed under the Apache 2 license, see the
 
 ## Development
 This project is developed internally at Google and published for external
-consumption, external contributions unfortunately cannot be taken at this time.
+consumption, external contributions unfortunately cannot be taken at this time. Duew to that reason i pulled the fix and deployed as new package. 
